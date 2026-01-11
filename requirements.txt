@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+
+langchain>=0.2,<0.3
+langchain-core>=0.2,<0.3
+langchain-groq
+
+serpapi
+google-search-results
+python-dotenv
+

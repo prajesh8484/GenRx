@@ -1,0 +1,35 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+coverage/
+.npm/
+*.pem
+
+# Python / Backend
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.pytest_cache/
+*.spec
+
+# Misc
+*.rar
+*.zip
+items.txt
+requirements.txt.bak
